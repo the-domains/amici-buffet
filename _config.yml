@@ -1,7 +1,7 @@
 name: Amici Buffet
 favicon: null
-layout_spectrum: 0.44273345335386693
-typography_spectrum: 0.02299339370802045
+layout_spectrum: 1
+typography_spectrum: 0.25876
 cta:
   domain: null
   bucket: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
+    - '#ffffff'
+    - '#940031'
+    - '#5fa893'
+    - '#f1a600'
+    - '#be364e'
   brandStrength: 0.032175565138459206
   lightness: 0.7670910304877907
   saturation: 0.041680906200781465
