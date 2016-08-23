@@ -1,5 +1,30 @@
-title: 'Amici Buffet - Comfort Food! Cozinha de Afeto para eventos por @reccruz'
-purpose: []
+typography_spectrum: 0.25876
+color:
+  saturation: 0.04168090620078146
+  brandStrength: 0
+  rhythmicContrast: 0.5
+  brandColors:
+    - '#5fa893'
+    - '#940031'
+    - '#fae6b6'
+    - '#be364e'
+    - '#f1a600'
+  lightness: 0
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.5071685
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+name: Amici Buffet
+cta:
+  bucket: null
+  version: null
+  domain: null
+favicon: null
 collections:
   - index:
       path: /
@@ -12,30 +37,5 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-color:
-  saturation: 0.04168090620078146
-  brandStrength: 0
-  rhythmicContrast: 0.5
-  brandColors:
-    - '#5fa893'
-    - '#940031'
-    - '#fae6b6'
-    - '#be364e'
-    - '#f1a600'
-  lightness: 0
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-name: Amici Buffet
-favicon: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.25876
-layout_spectrum: 0.5071685
+title: 'Amici Buffet - Comfort Food! '
+purpose: []
